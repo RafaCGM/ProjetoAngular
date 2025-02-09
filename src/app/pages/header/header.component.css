@@ -13,9 +13,9 @@ header {
     align-items: center;
   }
 
-  .logo {
-    font-size: 1.5em;
-    font-weight: bold;
+  .logo img {
+    width: 150px;
+    height: 45px;
   }
 
   nav ul {
@@ -38,7 +38,7 @@ header {
   }
 
   nav a:hover {
-    color: #d4ffd4;
+    color: #e23237;
   }
 
   @media (max-width: 600px) {
