@@ -3,14 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-header {
-    background-color: #cb3b3b;
-    color: #fff;
-    text-align: center;
-}
 
 main {
     flex: 1;
+    background-color: rgb(37, 37, 37);
 }
 
 .container {
@@ -28,12 +24,5 @@ main {
     width: 15%;
     text-align: center;
     border-radius: 8px;
-}
-
-footer {
-    background-color: #191919;
-    color: white;
-    text-align: center;
-    padding: 15px 0;
 }
 
